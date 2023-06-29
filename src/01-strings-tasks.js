@@ -272,7 +272,7 @@ function isString(value) {
  *   'Q♠' => 50
  *   'K♠' => 51
  */
-function getCardId(/* value */) {
+function getCardId(/* str */) {
   throw new Error('Not implemented');
 }
 
